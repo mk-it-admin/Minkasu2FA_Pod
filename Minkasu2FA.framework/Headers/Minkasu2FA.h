@@ -14,11 +14,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Minkasu2FA : NSObject
 
-
-//for View controller in sample app
-+ (void) initWithWKWebView: (WKWebView *)webView;
-+ (void) initWithUIWebView: (UIWebView *)webView;
-
 + (void) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config;
 + (void) initWithUIWebView: (UIWebView *)webView andConfiguration:(Minkasu2FAConfig *) config;
 + (BOOL) request:(NSURLRequest *)request  shouldHandleByMinkasu2FAInWebView:(UIWebView *)webView navigationType:(UIWebViewNavigationType)navigationType;
