@@ -8,7 +8,7 @@ Minkasu, Inc is a Payment Solution Provider. Minkasu 2FA is a biometrics based t
                        DESC
 
   s.homepage         = 'https://minkasupay.com'
-  s.license          = { :type => 'Copyright', :text => 'Copyright 2018 Minkasu, Inc. All Rights Reserved.'l}
+  s.license          = { :type => 'Copyright', :text => 'Copyright 2018 Minkasu, Inc. All Rights Reserved.'}
   s.author           = { 'Sachin Selvaraj' => 'sachin@minkasu.com' }
   s.source           = { :git => 'https://github.com/mk-it-admin/Minkasu2FA_Pod.git', :tag => "v#{s.version}"}
   
