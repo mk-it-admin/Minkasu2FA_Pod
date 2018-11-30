@@ -16,13 +16,13 @@
 @property (nonatomic, strong) NSString *resendOTPOperation;
 
 @property (strong, nonatomic) IBOutlet UINavigationItem *verifyOtpNavigationBar;
-@property (weak, nonatomic) IBOutlet UINavigationBar *verifyOtpNavBar;
+@property (strong, nonatomic) IBOutlet UINavigationBar *verifyOtpNavBar;
 
 @property (strong, nonatomic) IBOutlet UILabel *lblHeading;
 @property (strong, nonatomic) IBOutlet UILabel *lblEnterSetupCode;
 @property (strong, nonatomic) IBOutlet UILabel *lblPartnershipText;
 @property (strong, nonatomic) IBOutlet UIButton *btnVerifyOtp;
-@property (weak, nonatomic) IBOutlet UIImageView *cardImageView;
+@property (strong, nonatomic) IBOutlet UIImageView *cardImageView;
 
 @property (strong, nonatomic) IBOutlet UIButton *btnResendCode;
 
@@ -39,7 +39,7 @@
 @property (strong, nonatomic) IBOutlet UILabel *lblBankAccountBalance;
 @property (strong, nonatomic) IBOutlet UILabel *lblAmount;
 @property (strong, nonatomic) IBOutlet UIButton *btnClose;
-@property (weak, nonatomic) IBOutlet UIView *headerHorizontalDivider;
+@property (strong, nonatomic) IBOutlet UIView *headerHorizontalDivider;
 - (IBAction)onClickClose:(id)sender;
 
 //-------End Header

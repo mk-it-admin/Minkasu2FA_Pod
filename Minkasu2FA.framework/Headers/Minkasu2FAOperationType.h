@@ -11,9 +11,9 @@
 #import <Foundation/Foundation.h>
 
 typedef NS_ENUM(NSUInteger, Minkasu2FAOperationType){
-    CHANGE_PAYPIN = 1,
-    ENABLE_FINGERPRINT ,
-    DISABLE_FINGERPRINT ,
+    MINKASU2FA_CHANGE_PAYPIN = 1,
+    MINKASU2FA_ENABLE_BIOMETRY ,
+    MINKASU2FA_DISABLE_BIOMETRY ,
 };
 
 #endif /* Minkasu2FAOperationType_h */

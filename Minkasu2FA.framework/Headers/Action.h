@@ -14,7 +14,8 @@
 typedef NS_ENUM(NSUInteger, Action){
     MK_CHANGE_PIN,
     MK_ENABLE_BIOMETRY,
-    MK_AUTH_PAY
+    MK_AUTH_PAY,
+    MK_DISABLE_BIOMETRY
 };
 
 #endif /* Action_h */

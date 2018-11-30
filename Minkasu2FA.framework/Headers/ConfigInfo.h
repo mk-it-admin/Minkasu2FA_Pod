@@ -30,6 +30,7 @@
 @property Minkasu2FACustomerInfo *customerInfo;
 @property Minkasu2FAOrderInfo *orderInfo;
 @property NetBanking *netBankingInfo;
+@property (nonatomic, strong) NSString *netbankingAccountID; //Used for netbanking account-balance calls
 @property (nonatomic, strong) NSString *cardId;
 @property (nonatomic, strong) NSString *cardAlias;
 @property (nonatomic, strong) NSString *bankTxnId;

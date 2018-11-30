@@ -7,10 +7,10 @@
 //
 
 //! Project version number for Minkasu2FA.
-FOUNDATION_EXPORT double Minkasu2FAVersionNumber;
+extern double Minkasu2FAVersionNumber;
 
 //! Project version string for Minkasu2FA.
-FOUNDATION_EXPORT const unsigned char Minkasu2FAVersionString[];
+extern const unsigned char Minkasu2FAVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Minkasu2FA/PublicHeader.h>
 
