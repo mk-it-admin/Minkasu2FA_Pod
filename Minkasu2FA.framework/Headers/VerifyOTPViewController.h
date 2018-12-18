@@ -23,6 +23,7 @@
 @property (strong, nonatomic) IBOutlet UILabel *lblPartnershipText;
 @property (strong, nonatomic) IBOutlet UIButton *btnVerifyOtp;
 @property (strong, nonatomic) IBOutlet UIImageView *cardImageView;
+@property (weak, nonatomic) IBOutlet UIScrollView *contentScrollView;
 
 @property (strong, nonatomic) IBOutlet UIButton *btnResendCode;
 
@@ -48,6 +49,7 @@
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *txtOtpWidthConstraint;
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *cardImageViewWidth;
 @property (weak, nonatomic) IBOutlet NSLayoutConstraint *cardImageViewTrailingSpace;
+@property (weak, nonatomic) IBOutlet NSLayoutConstraint *contentViewHeight;
 
 -(void) viewModelDidUpdate: (CompletionHandlerType)type data:(NSDictionary *)data;
 -(void) viewModelDidError:(NSError *)error type:(CompletionHandlerType )type;
