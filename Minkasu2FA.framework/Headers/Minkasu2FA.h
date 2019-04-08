@@ -17,6 +17,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config;
 + (void) initWithUIWebView: (UIWebView *)webView andConfiguration:(Minkasu2FAConfig *) config;
++ (void) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config inViewController:(nullable UIViewController *)viewController;
++ (void) initWithUIWebView: (UIWebView *)webView andConfiguration:(Minkasu2FAConfig *) config inViewController:(nullable UIViewController *)viewController;
 + (BOOL) request:(NSURLRequest *)request  shouldHandleByMinkasu2FAInWebView:(UIWebView *)webView navigationType:(UIWebViewNavigationType)navigationType;
 + (void) registerMinkasu2FACustomUserAgent;
 + (NSString *) getMinkasu2faUserAgent: (NSString *)webViewType;

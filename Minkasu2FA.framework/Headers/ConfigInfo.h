@@ -63,6 +63,6 @@
 
 @property Minkasu2FACustomTheme *customTheme;
 //@property Minkasu2FAJSBridge *jsInterface;
-
+@property (nonatomic, strong) UIViewController *merchantViewController;
 
 @end

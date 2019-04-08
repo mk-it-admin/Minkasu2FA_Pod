@@ -21,5 +21,6 @@
 @property NSString *merchantToken;
 @property Minkasu2FASDKMode sdkMode;
 @property Minkasu2FACustomTheme *customTheme;
+@property (nonatomic, strong) UIViewController *merchantViewController;
 
 @end
