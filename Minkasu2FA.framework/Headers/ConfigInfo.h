@@ -62,6 +62,7 @@
 @property (nonatomic, strong) NSString *disabledMerchantStr;
 
 @property Minkasu2FACustomTheme *customTheme;
+@property (nonatomic, strong) NSString *globalSessionId;
 //@property Minkasu2FAJSBridge *jsInterface;
 @property (nonatomic, strong) UIViewController *merchantViewController;
 

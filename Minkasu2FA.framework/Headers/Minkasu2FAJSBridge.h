@@ -18,8 +18,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (NSArray *)listOfJSBridgeMethods;
 + (instancetype)sharedInstance;
-- (instancetype)initWithCongfiguration:(Minkasu2FAConfig *) config;
-- (void) setMinkasu2FAConfiguration:(Minkasu2FAConfig *) config;
+- (instancetype)initWithCongfiguration:(Minkasu2FAConfig *) config globalSessionId:(NSString *) globalSessionId;
+- (void) setMinkasu2FAConfiguration:(Minkasu2FAConfig *) config globalSessionId:(NSString *) globalSessionId;
 - (void) mk2faPerformPhoneNumCheckWithPhoneNum:(NSDictionary *) dict;
 - (void) mk2faPerformNetBankingLoginAuth:(NSDictionary *) bankData;
 - (void) mk2faPerformNetBankingAuth:(NSDictionary *) bankData;
