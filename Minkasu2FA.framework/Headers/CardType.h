@@ -13,6 +13,9 @@
 typedef NS_ENUM(NSUInteger, CardType){
     VISA = 1,
     MASTERCARD = 2,
+    AMERICANEXPRESS=3,
+    RUPAY=4,
+   
 };
 
 #endif /* CardType_h */
