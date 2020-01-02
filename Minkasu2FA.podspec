@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Minkasu2FA'
-  s.version          = '1.4.2'
+  s.version          = '1.4.3'
   s.summary          = 'CocoaPod implementation of Minkasu2FA SDK'
 
   s.description      = <<-DESC
