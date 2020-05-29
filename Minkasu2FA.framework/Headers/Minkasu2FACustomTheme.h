@@ -14,5 +14,10 @@
 @property (nonatomic, strong, nonnull) UIColor *navigationBarTextColor;
 @property (nonatomic, strong, nonnull) UIColor *buttonBackgroundColor;
 @property (nonatomic, strong, nonnull) UIColor *buttonTextColor;
+@property (nonatomic, strong, nonnull) UIColor *darkModeNavigationBarColor;
+@property (nonatomic, strong, nonnull) UIColor *darkModeNavigationBarTextColor;
+@property (nonatomic, strong, nonnull) UIColor *darkModeButtonBackgroundColor;
+@property (nonatomic, strong, nonnull) UIColor *darkModeButtonTextColor;
+@property (nonatomic, assign) BOOL supportDarkMode;
 
 @end

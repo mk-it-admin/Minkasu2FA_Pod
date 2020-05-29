@@ -11,7 +11,7 @@
 
 @interface NetBanking : NSObject
 
-@property  BankType bankType;
+@property  MK2FABankType bankType;
 @property (nonatomic, strong) NSString *accountAlias;
 @property (nonatomic, strong) NSString *netBankingAccountId;
 @property (nonatomic, strong) NSString *accountPrefix;

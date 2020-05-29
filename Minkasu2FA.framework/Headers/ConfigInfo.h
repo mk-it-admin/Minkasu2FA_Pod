@@ -18,6 +18,7 @@
 #import "PhoneHashAlg.h"
 #import "Minkasu2FACustomTheme.h"
 #import "Minkasu2FASDKMode.h"
+#import "CurrencyCode.h"
 
 @interface ConfigInfo : NSObject
 
@@ -41,10 +42,13 @@
 
 @property  Action action;
 @property  BOOL noAadhaar;
-@property  CardType cardType;
-@property  BankType bankType;
+@property  MK2FACardType cardType;
+@property  MK2FABankType bankType;
 @property  PaymentType paymentType;
-@property  (nonatomic, assign) NSInteger totalAmountInPaise;
+@property  (nonatomic, assign) NSInteger totalAmountInLowestDenomination;
+@property  (nonatomic, assign) NSInteger currencyExponent;
+@property  MK2FACurrencyCode currencyCode;
+@property  (nonatomic, assign) NSInteger txnTimeoutInMilliSecs;
 
 @property (nonatomic, strong) NSString *firstName;
 @property (nonatomic, strong) NSString *lastName;
@@ -60,10 +64,13 @@
 @property Minkasu2FASDKMode sdkMode;
 @property (nonatomic, strong) NSString *entryPoint;
 @property (nonatomic, strong) NSString *disabledMerchantStr;
+@property BOOL fromIframe;
+@property (nonatomic, assign) NSInteger iframePosition;
 
 @property Minkasu2FACustomTheme *customTheme;
 @property (nonatomic, strong) NSString *globalSessionId;
 //@property Minkasu2FAJSBridge *jsInterface;
 @property (nonatomic, strong) UIViewController *merchantViewController;
+@property (nonatomic, strong) NSTimer *timeoutTimer;
 
 @end

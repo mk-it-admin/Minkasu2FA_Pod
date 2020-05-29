@@ -6,11 +6,11 @@
 //  Copyright © 2018 minkasu. All rights reserved.
 //
 
-#ifndef BankType_h
-#define BankType_h
+#ifndef MK2FABankType_h
+#define MK2FABankType_h
 #import <Foundation/Foundation.h>
 
-typedef NS_ENUM(NSUInteger, BankType){
+typedef NS_ENUM(NSUInteger, MK2FABankType){
     MK_TEST_BANK = 999,
     MK_ABU_DHABI_COMMERCIAL_BANK_LTD = 1000,
     MK_AMERICAN_EXPRESS_BANK_LTD = 1001,
@@ -48,7 +48,6 @@ typedef NS_ENUM(NSUInteger, BankType){
     MK_IDBI_BANK_LIMITED = 1033,
     MK_INDIAN_BANK = 1034,
     MK_INDIAN_OVERSEAS_BANK = 1035,
-    MK_INDUSTRIAL_DEVELOPMENT_BANK_OF_INDIA = 1036,
     MK_ING_VYSYA_BANK = 1037,
     MK_JP_MORGAN_CHASE_BANK_NATIONAL_ASSOCIATION = 1038,
     MK_KRUNG_THAI_BANK_PUBLIC_COMPANY_LIMITED = 1039,
@@ -96,8 +95,14 @@ typedef NS_ENUM(NSUInteger, BankType){
     MK_UNION_BANK_OF_INDIA = 1081,
     MK_UNITED_BANK_OF_INDIA = 1082,
     MK_VIJAYA_BANK = 1083,
-    MK_YES_BANK = 1084,
+    MK_YES_BANK = 1084
 
 };
 
-#endif /* BankType_h */
+#endif /* MK2FABankType_h */
+
+@interface BankType : NSObject
+
++ (NSString *)bankTypeToString:(MK2FABankType)bankType;
+
+@end

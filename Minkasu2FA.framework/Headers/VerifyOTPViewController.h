@@ -7,10 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BaseViewController.h"
 #import "VerifyOTPViewModel.h"
 #import "CompletionHandlerType.h"
 
-@interface VerifyOTPViewController : UIViewController<UITextFieldDelegate>
+@interface VerifyOTPViewController : BaseViewController<BaseViewControllerDelegate, UITextFieldDelegate>
 
 - (void)setVerifyOTPViewModel:(VerifyOTPViewModel *)viewModel;
 @property (nonatomic, strong) NSString *resendOTPOperation;

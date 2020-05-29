@@ -1,16 +1,16 @@
 //
-//  Bank.h
+//  Minkasu2FABank.h
 //  Minkasu2FA
 //
 //  Created by Praveena Khanna on 7/13/18.
 //  Copyright © 2018 minkasu. All rights reserved.
 //
 
-#ifndef Bank_h
-#define Bank_h
+#ifndef Minkasu2FABank_h
+#define Minkasu2FABank_h
 #import <Foundation/Foundation.h>
 
-typedef NS_ENUM(NSUInteger, Bank){
+typedef NS_ENUM(NSUInteger, Minkasu2FABank){
     TEST_BANK ,
     ABU_DHABI_COMMERCIAL_BANK_LTD ,
     AMERICAN_EXPRESS_BANK_LTD ,
@@ -48,7 +48,6 @@ typedef NS_ENUM(NSUInteger, Bank){
     IDBI_BANK_LIMITED ,
     INDIAN_BANK ,
     INDIAN_OVERSEAS_BANK ,
-    INDUSTRIAL_DEVELOPMENT_BANK_OF_INDIA ,
     ING_VYSYA_BANK ,
     JP_MORGAN_CHASE_BANK_NATIONAL_ASSOCIATION ,
     KRUNG_THAI_BANK_PUBLIC_COMPANY_LIMITED ,
@@ -99,4 +98,4 @@ typedef NS_ENUM(NSUInteger, Bank){
     YES_BANK ,
 };
 
-#endif /* Bank_h */
+#endif /* Minkasu2FABank_h */

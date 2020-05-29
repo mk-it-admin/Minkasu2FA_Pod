@@ -6,11 +6,11 @@
 //  Copyright © 2018 minkasu. All rights reserved.
 //
 
-#ifndef CardType_h
-#define CardType_h
+#ifndef MK2FACardType_h
+#define MK2FACardType_h
 #import <Foundation/Foundation.h>
 
-typedef NS_ENUM(NSUInteger, CardType){
+typedef NS_ENUM(NSUInteger, MK2FACardType){
     VISA = 1,
     MASTERCARD = 2,
     AMERICANEXPRESS=3,
@@ -18,4 +18,4 @@ typedef NS_ENUM(NSUInteger, CardType){
    
 };
 
-#endif /* CardType_h */
+#endif /* MK2FACardType_h */
