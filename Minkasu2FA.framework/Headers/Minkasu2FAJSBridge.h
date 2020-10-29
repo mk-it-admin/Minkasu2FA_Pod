@@ -24,6 +24,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void) mk2faPerformNetBankingLoginAuth:(NSDictionary *) bankData;
 - (void) mk2faPerformNetBankingAuth:(NSDictionary *) bankData;
 - (void) mk2faPerformCardAuth:(NSDictionary *) bankData;
+- (void) mk2faGetSDKInfo:(NSDictionary *) dict;
 
 @end
 

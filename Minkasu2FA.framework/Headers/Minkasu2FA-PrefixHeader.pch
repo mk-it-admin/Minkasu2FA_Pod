@@ -14,6 +14,7 @@
 
 //transcation timed out notification name
 #define kMinkasu2FATransactionDidTimeoutNotification @"Minkasu2AFTransactionTimeOut"
+#define kMinkasu2FAKeychainAccessErrorNotification @"Minkasu2FAKeychainAccessError"
 
 #ifdef __OBJC__
 #import <Foundation/Foundation.h>
