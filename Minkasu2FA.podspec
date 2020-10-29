@@ -15,4 +15,6 @@ Minkasu, Inc is a Payment Solution Provider. Minkasu 2FA is a biometrics based t
   s.platform     = :ios, "10.0"
 
   s.ios.vendored_frameworks = 'Minkasu2FA.framework'
+  s.pod_target_xcconfig = {'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end
