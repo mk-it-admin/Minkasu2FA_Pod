@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Minkasu2FA'
-  s.version          = '2.2.0'
+  s.version          = '2.3.0'
   s.summary          = 'CocoaPod implementation of Minkasu2FA SDK'
 
   s.description      = <<-DESC
@@ -14,7 +14,5 @@ Minkasu, Inc is a Payment Solution Provider. Minkasu 2FA is a biometrics based t
 
   s.platform     = :ios, "10.0"
 
-  s.ios.vendored_frameworks = 'Minkasu2FA.framework'
-  s.pod_target_xcconfig = {'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.ios.vendored_frameworks = 'Minkasu2FA.xcframework'
 end
