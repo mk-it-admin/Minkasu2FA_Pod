@@ -70,7 +70,7 @@
 @property Minkasu2FACustomTheme *customTheme;
 @property (nonatomic, strong) NSString *globalSessionId;
 //@property Minkasu2FAJSBridge *jsInterface;
-@property (nonatomic, strong) UIViewController *merchantViewController;
+@property (nonatomic, weak) UIViewController *merchantViewController;
 @property (nonatomic, strong) NSTimer *timeoutTimer;
 
 @end
