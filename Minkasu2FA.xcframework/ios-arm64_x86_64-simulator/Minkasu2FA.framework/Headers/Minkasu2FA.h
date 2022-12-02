@@ -15,8 +15,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Minkasu2FA : NSObject
 
-+ (void) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config __attribute__((deprecated("use initWithWKWebView:andConfiguration:error:")));
-+ (void) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config inViewController:(nullable UIViewController *)viewController __attribute__((deprecated("use initWithWKWebView:andConfiguration:inViewController:error:")));
 + (BOOL) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config error:(NSError**)error;
 + (BOOL) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config inViewController:(nullable UIViewController *)viewController error:(NSError**)error;
 + (BOOL) initReactSDKWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config reactSDKVersion:(NSString *)reactSDKVersion inViewController:(nullable UIViewController *)viewController error:(NSError**)error;
