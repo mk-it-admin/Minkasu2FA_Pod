@@ -4,3 +4,8 @@ framework module Minkasu2FA {
   export *
   module * { export * }
 }
+
+module Minkasu2FA.Swift {
+  header "Minkasu2FA-Swift.h"
+  requires objc
+}

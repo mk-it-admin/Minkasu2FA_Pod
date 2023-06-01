@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "Minkasu2FA",
-    platforms: [.iOS(.v10)],
+    platforms: [.iOS(.v13)],
     products: [
         .library(
             name: "Minkasu2FA",
@@ -16,6 +16,6 @@ let package = Package(
         .binaryTarget(
                name: "Minkasu2FA",
                path: "./Minkasu2FA.xcframework"
-             )
-           ]
+        )
+    ]
 )
