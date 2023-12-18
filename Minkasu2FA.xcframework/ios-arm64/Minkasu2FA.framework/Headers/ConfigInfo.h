@@ -14,7 +14,7 @@
 #import "BankType.h"
 #import "CardType.h"
 #import "PaymentType.h"
-#import "Minkasu2FANetBanking.h"
+#import "NetBanking.h"
 #import "PhoneHashAlg.h"
 #import "Minkasu2FACustomTheme.h"
 #import "Minkasu2FASDKMode.h"
@@ -36,7 +36,7 @@
 @property (nonatomic, strong) NSString *cancelCallBack;
 @property Minkasu2FACustomerInfo *customerInfo;
 @property Minkasu2FAOrderInfo *orderInfo;
-@property Minkasu2FANetBanking *netBankingInfo;
+@property NetBanking *netBankingInfo;
 @property (nonatomic, strong) NSString *cardId;
 @property (nonatomic, strong) NSString *cardAlias;
 @property (nonatomic, strong) NSString *bankTxnId;
@@ -83,6 +83,5 @@
 @property (nonatomic, strong) NSTimer *timeoutTimer;
 @property BankInfo *bankInfo;
 @property (nonatomic, weak) id <Minkasu2FACallbackDelegate> delegate;
-@property (nonatomic, strong) NSString *transactionPublicKey;
 
 @end

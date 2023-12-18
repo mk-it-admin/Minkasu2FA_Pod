@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "BankType.h"
 
-@interface Minkasu2FANetBanking : NSObject
+@interface NetBanking : NSObject
 
 @property  MK2FABankType bankType;
 @property (nonatomic, strong) NSString *accountAlias;

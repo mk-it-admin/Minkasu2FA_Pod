@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Minkasu2FA'
-  s.version          = '3.1.0'
+  s.version          = '3.0.1'
   s.summary          = 'CocoaPod implementation of Minkasu2FA SDK'
 
   s.description      = <<-DESC
@@ -12,7 +12,7 @@ Minkasu, Inc is a Payment Solution Provider. Minkasu 2FA is a biometrics based t
   s.author           = { 'Sachin Selvaraj' => 'sachin@minkasu.com' }
   s.source           = { :git => 'https://github.com/mk-it-admin/Minkasu2FA_Pod.git', :tag => "v#{s.version}"}
 
-  s.platform     = :ios, "13.0"
+  s.platform     = :ios, "12.0"
 
   s.ios.vendored_frameworks = 'Minkasu2FA.xcframework'
 end
