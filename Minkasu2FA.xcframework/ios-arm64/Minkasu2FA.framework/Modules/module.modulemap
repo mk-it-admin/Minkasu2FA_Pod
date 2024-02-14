@@ -1,7 +1,7 @@
 framework module Minkasu2FA {
   umbrella header "Minkasu2FA.h"
-
   export *
+
   module * { export * }
 }
 

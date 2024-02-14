@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/Minkasu2FA-Swift.h</key>
 		<data>
-		JF6+QSuNjUlfWfJuwTRGZ+0Oh2c=
+		qxxQH7Z+lH9a2Em0fy9U0bIO4c4=
 		</data>
 		<key>Headers/Minkasu2FA.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/Minkasu2FAJSBridge.h</key>
 		<data>
-		1vVjIfagVoPR+5gmoLTaUxe9Ccc=
+		4ucujVmxJdogkwhlmw8qTOl5OPM=
 		</data>
 		<key>Headers/Minkasu2FANetBanking.h</key>
 		<data>
@@ -118,63 +118,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		chFG7fZ7yl+xl1RYW37z3q1CDEE=
+		ZvetkDD7BLGA4IQc61q8mGbzlUc=
 		</data>
 		<key>Minkasu2FAAlertController.nib</key>
 		<data>
-		nApb8k38oKC1xIHcKymBovqZPig=
+		bp2BxuYux3cfI/ncQ2Zl0evA5ZQ=
 		</data>
 		<key>Minkasu2FALocalized.strings</key>
 		<data>
-		MTyavIN9LF6MxT7wh05X0A7CibA=
+		MUk2VQ3OZXkm23ujHFyeaYPNnhc=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		c6kxbgHSKulB21N667wqdLO9swY=
+		v8pRjEyUdJse4FUIY1O/JYvB4jE=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		N/TdvtGZ4yccX+0VO83V0J4qTng=
+		diH8QP6zh3OFQZYFSDAEe7M1/pw=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		yXwdOipzA188AghlxLRSphB/S10=
+		6+iW7Q+MEvnzCVeb6jWQdqngBJM=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		N/TdvtGZ4yccX+0VO83V0J4qTng=
+		diH8QP6zh3OFQZYFSDAEe7M1/pw=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		9OPe0SlQvnPdmde90Sx37r0xWVo=
+		sGSG2xMdqXBlCnnVpm1XtHuLONg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		PIk9ld86fjLj+G6AL4+DOiMpp+A=
+		+kMdAMD0BXz9SzL65GQf0sbK1pQ=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		XOn1BcQUr70EMntYZ/BiBQKXgvg=
 		</data>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>
 		<data>
-		OF4D4RNUSvB0JSEnWjBpoIZJluQ=
+		9NLDrO4qTjsaEbviA41SRNL0oV0=
 		</data>
 		<key>minkasu2fa.storyboardc/AuthenticationViewController.nib</key>
 		<data>
-		Mgy55xtnEarhOstV9dowOinjIqY=
+		JfQwTPBW9HGju/3qJkX/t4+Zp/E=
 		</data>
 		<key>minkasu2fa.storyboardc/CWN-hz-8pK-view-Lfd-Zh-ODg.nib</key>
 		<data>
-		7Edn3+k4uYGGp8xfATZ3j2Uyq8k=
+		THkGRmIYe3E/hKQVA2cfU1PbmUs=
 		</data>
 		<key>minkasu2fa.storyboardc/ChangePinViewController.nib</key>
 		<data>
-		ELawfOygmSQWkaPzQIE/aeASavs=
+		18aZwSOyCzWcSSaMEuvzfPqyem4=
 		</data>
 		<key>minkasu2fa.storyboardc/CreatePinViewController.nib</key>
 		<data>
-		xX6AUusyrirsYlDGp1EFKpiaeqk=
+		0MTDVWZPq8Qx0cifIg8s3o5Xf+s=
 		</data>
 		<key>minkasu2fa.storyboardc/EnableDisableFPViewController.nib</key>
 		<data>
-		Ytq6vePQ/S5jyoGm/5Xdn/pdL2Y=
+		TRJQTHaHtUZHndGcSpibxwRUkog=
 		</data>
 		<key>minkasu2fa.storyboardc/Info.plist</key>
 		<data>
@@ -182,27 +186,27 @@
 		</data>
 		<key>minkasu2fa.storyboardc/LoaderViewController.nib</key>
 		<data>
-		IdgiW84w+Zon7TJV4HEnmtbvuPg=
+		M8NwJBizhunuY0AJjGYAVsp8AW8=
 		</data>
 		<key>minkasu2fa.storyboardc/VerifyOTPViewController.nib</key>
 		<data>
-		8bvjMHsxbTQZKtbv/ktwGH6gs4Q=
+		+ZVwN2hnwFe6XeXy9d7PTjCqw0I=
 		</data>
 		<key>minkasu2fa.storyboardc/nz5-sE-sbE-view-EtM-C8-LP5.nib</key>
 		<data>
-		92OwRkfRRJUlXOsUZ7lkDrB53iw=
+		OPsoMYBbRMOpqj7l1hzaYiJs89Q=
 		</data>
 		<key>minkasu2fa.storyboardc/sC3-Lh-VTh-view-TWs-M1-aq4.nib</key>
 		<data>
-		0ChpSGDCG9N4elOOMeCJUwfGlgw=
+		gwfgZH5GFXPhDaZqrP7thpA0c9g=
 		</data>
 		<key>minkasu2fa.storyboardc/w3S-QA-P3Q-view-vti-yO-T2g.nib</key>
 		<data>
-		j8CVnVAMuK9/o40Ucdlxcmkrwoc=
+		k9cMV9GDYLJ3yIFob2naczT74UM=
 		</data>
 		<key>minkasu2fa.storyboardc/wDi-FR-kQV-view-QC8-jk-6bp.nib</key>
 		<data>
-		EuAUlp3eCy9rbOx6bdDPHuXI1FY=
+		HH1hztSRG58zcnVB0zetArpgHQs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -267,7 +271,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lXgQttX0SE7FwLslpM1EAQpZ1NoBAr/xxCNmFG4dSXE=
+			7hTse+thr10Gq5VNxygnLRrshczbrqBncXxHMwTC7FA=
 			</data>
 		</dict>
 		<key>Headers/Minkasu2FA.h</key>
@@ -344,7 +348,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0gl5muP2bitvc0NlO1k8Lx9+iBqEHOBxAB8uPKXUkjA=
+			Yuh2DYQJ3IvDYBr9Dui1HipxkTiclT141Ek7fppO7HE=
 			</data>
 		</dict>
 		<key>Headers/Minkasu2FANetBanking.h</key>
@@ -407,98 +411,105 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Opl/6z6CWLaLCWO8yHdDa8/xriENLIBEVw9/gQ0wN2A=
+			yEU4e/92Af8sSLW1hCvXkAP5EzuA/XszZLqOLcmztZs=
 			</data>
 		</dict>
 		<key>Minkasu2FALocalized.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NK3l3KKYCPCqXtCd1I+JB11RtefSaStFGADpsaGFW8g=
+			hoZAaCQWXbh90W6FS+ssgGw2780vH/uC8QSYcIKTQJM=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ntg5A9whhTRqpbiFd9fTss0tAMqeo5pOMPNkGetFtXc=
+			Nx+B91WF9RY0qx/EwMHBugrnUrVMmEvEvwEaORK4zWQ=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AfoR2lHQDJffsD4cvDWIt6/v/FJy25D6HXzucGO6blQ=
+			gw2VhYfcvtTBfxStRpP6j2Fh0YxMOWxo5C4qIHZjVFY=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e2Fvtok53JVd0OzckhGrACmz3WOgGcbGuzs+XxY312Y=
+			Yy6c1ZL/3DKV6wGnSdGIjL+VfZx4OVPpQr/y9e7WC9k=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AfoR2lHQDJffsD4cvDWIt6/v/FJy25D6HXzucGO6blQ=
+			gw2VhYfcvtTBfxStRpP6j2Fh0YxMOWxo5C4qIHZjVFY=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YWDGSQ6ThCa0HvXGF9RU4A3Cf8I0ObHyAsIiXq+WPts=
+			r/pW3uZguNUPSJIpESgSprIJLEEH38U9WKm4I+V2qEM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wHiy0/hz9pYlMsday0GM1wlHY6W6UDQnIFdHSrtedes=
+			oEskFuvZyNKhPSWN8ifXxWpQHEX9ZZs1VdbQDE1qF+U=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kXFkXpz95gDvUw8ZOsvdEgvPhNvMI9LfBlogJmfLEvk=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4hmCOyHkwC/UWGZFz/NLfLVYgmJ4qAGE7Lk7Agink3k=
+			5o9CyXYC64VnV9ntSrswVnGF8t+S6tWJDvZQ6DGuSYU=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/AuthenticationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KhK6mF9GQV8/LOysaYgb/gTpvlM6mbJY+D/eVS1tr6M=
+			ijUIl4+kfqPYOiHWU57U8Q8pigN+kh5GQ/fm3Bd4gfo=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/CWN-hz-8pK-view-Lfd-Zh-ODg.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3xLn8BOL2j2FNqTFbRxa+t0malxkcx5vlU+5VoDXiXk=
+			ZRC/O7f3MTt7OvdLmFQzMkqsH7U2ztHxsqaJE+aF+D0=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/ChangePinViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jAdTqkGm0OaCbzZjfxqBptU4fDJaP7vV5q5StYqH2is=
+			tnh7maUCzg1bJwbcfnNj6lfRSH5fsmtzGk02I+6lrek=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/CreatePinViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8FtjoWuKITJx8UGFK7XWxWNpRqhBxiB6fbIq1w+RTIE=
+			p917Y3IFpL58RP+FGZOeHDGVsIgw+vwE00p7q3lHq6g=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/EnableDisableFPViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5CJs2q8N2mLg833awtYloeSwoSQkxH38K07D+GxvPP4=
+			GkJQ7ZXQawY+N4V5/Ry4DSHFu3kMVzI05g3aCzN4jGw=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/Info.plist</key>
@@ -512,42 +523,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hfzGkzDP/faGF8VcG0EwsHAAHoTFLtobCM/s55tfHdA=
+			gGPu+8gfVZshxN8suNh+rx61hIpS5ZYO71HY/IuKLF8=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/VerifyOTPViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Uv/A7Eimplr1XdMA3HWsBEJfYbfeXUVkmTmOUhcv6M4=
+			XCbwuEKh8FsYR6bP/ngUubIVfg3PJ/1M7wm670dRDZg=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/nz5-sE-sbE-view-EtM-C8-LP5.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yhfILrOD4Ry2dikp5409QDG2au9UBQkRg1ALkNk8zLI=
+			mmW4LRES1T/79bPm3aloODhWT8epsjJm1tsPYhZiMaw=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/sC3-Lh-VTh-view-TWs-M1-aq4.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xY+K+ZNJZzpIZza4mS2iIJ2dXIHrDKMQTSEpFWownbE=
+			z24krkMdTZmEwqmtpvD7IK9N6ly/XJxWIjk/WvCnNhQ=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/w3S-QA-P3Q-view-vti-yO-T2g.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tzpef/xY7/ketWE2NloTspAFdGIKBNMOVdmjilwK7Pk=
+			cHLF9jNe+kRRJApwKZLbNErY2C1GM3tKTdjgnNAjAY4=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/wDi-FR-kQV-view-QC8-jk-6bp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S6A2340zp1fG4bkE9vSWoh4a/2E5R2r2dMnYjrCkXwg=
+			MpCVs0rFkz4WOBEOxEPuLHJNr0+f1bEeyYqfB3jH13c=
 			</data>
 		</dict>
 	</dict>
