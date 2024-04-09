@@ -114,7 +114,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JQU8NkEH2wJlgFCMS2yw8rrIYjo=
+		vrvUcWas9mBLZreroaGA2tsMc1E=
 		</data>
 		<key>Minkasu2FAAlertController.nib</key>
 		<data>
@@ -127,6 +127,10 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		M8DHdpzoVNYa5H3+MG29XA+BuM0=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		XOn1BcQUr70EMntYZ/BiBQKXgvg=
 		</data>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>
 		<data>
@@ -391,6 +395,13 @@
 			<key>hash2</key>
 			<data>
 			d21bmLCDodSeNMIGZkuF+S33eGKz1ZTsAMVjwNXgUO4=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kXFkXpz95gDvUw8ZOsvdEgvPhNvMI9LfBlogJmfLEvk=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>
