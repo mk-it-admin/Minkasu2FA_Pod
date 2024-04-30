@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/Minkasu2FA-Swift.h</key>
 		<data>
-		wKzQBpDTCmNA2vUACMAG68J3KsQ=
+		XnI5rTc2MVUtSTZtcQaaUcLSDik=
 		</data>
 		<key>Headers/Minkasu2FA.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YtFsbvbB5ObL+aAFFREZLP+hJeU=
+		R4i6/HiqDUvIiyfjXVooNEjjyjQ=
 		</data>
 		<key>Minkasu2FAAlertController.nib</key>
 		<data>
@@ -134,19 +134,19 @@
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Py47OQZT3/Jf56l/B9PMDr0y6Ms=
+		b2qo8DVvUeHlLcPwOHXxGwd0DIE=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vJzKv3J0LkSGP4c4tGW9JFMvLqE=
+		Rot+6NY6awXX97NEiCSAAI8+WD8=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Py47OQZT3/Jf56l/B9PMDr0y6Ms=
+		b2qo8DVvUeHlLcPwOHXxGwd0DIE=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rmUTXHGCwtN3yv61xJKYPP56lf8=
+		zfCS5DZ096gty94gKXP/3FNOnB4=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -154,19 +154,19 @@
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WlkRxEaiQWKWUbdkxS3VnBuD0LI=
+		AZlVpYPMwr2yr9+EMnnir3j3Fbo=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ufomL07kzmd5GhTwRn38arCEPuQ=
+		ZW04qgfl1U2ihrVzemDZdGZkBW0=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WlkRxEaiQWKWUbdkxS3VnBuD0LI=
+		AZlVpYPMwr2yr9+EMnnir3j3Fbo=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bwdbBgK90ZoV4kehOQp24R9mshM=
+		gaC5u5BYBk7w7MIFjYPgLux3yJU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		XOn1BcQUr70EMntYZ/BiBQKXgvg=
+		2g9EgaVG/UZ4etEd3Y/8RS1pffQ=
 		</data>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>
 		<data>
@@ -291,7 +291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mpnuOHgDbIlVKSVwrc/5JG7yJAsyubrAopY8hQWi7G4=
+			oRumaLlT2BloVKO6zzZ5GXqROTvhRAeqCU5uoiOWCDE=
 			</data>
 		</dict>
 		<key>Headers/Minkasu2FA.h</key>
@@ -452,28 +452,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hmNIw2eI2J+w110P6vgTQoExRgzHIkYC6tN+tIE16uw=
+			cGuJrKsjxiB/Wf1AHCkFmfpi8L1fvA6zJuJJUgmwUH4=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GZvvqlxXW66FnmxpFg33gX1dBh18YGQIZ8cSWyDyC0g=
+			dZmumG1b+tQhOq2hXe9EttKp+r5UGDibdOYJD0DCN5U=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hmNIw2eI2J+w110P6vgTQoExRgzHIkYC6tN+tIE16uw=
+			cGuJrKsjxiB/Wf1AHCkFmfpi8L1fvA6zJuJJUgmwUH4=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HMbjSh08smm8vzOyZ6yhe0VrH01H9np/+0DOGcm8GTI=
+			9BrWmDp+T+Kphfl/VpgNC4rtmuonhTU3RBebk/W+4TI=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -487,28 +487,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OSYD4HbxZb0EOfH7aK9/2S3YyyRnuJWoyNZqn3malEk=
+			0ctqgQJqqPjGz8FEDe3VYg2jL3TP9cp1B2BqW67UHXk=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			07V49iP86hHafM9t308VM9Mf/lJila/zNFeeQg5i31U=
+			35TlKTzFmFW9p/LcaoZcHKm5tT5yabFruIuWQ9F/epI=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OSYD4HbxZb0EOfH7aK9/2S3YyyRnuJWoyNZqn3malEk=
+			0ctqgQJqqPjGz8FEDe3VYg2jL3TP9cp1B2BqW67UHXk=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DgrcOkxxfX/y9OfohlbopcLP5HEZGTe3/0cMLs83I5I=
+			X1AqV5xoPCjQAA/twPKWMPmN97ZHJ5KalhIA497uPIE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -522,7 +522,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kXFkXpz95gDvUw8ZOsvdEgvPhNvMI9LfBlogJmfLEvk=
+			3ZkGvD6183Bln3UZXUWCTx9KMnBPSqkRqpNMtRE6EWc=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>

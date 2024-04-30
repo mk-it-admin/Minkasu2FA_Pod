@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/Minkasu2FA-Swift.h</key>
 		<data>
-		qxxQH7Z+lH9a2Em0fy9U0bIO4c4=
+		HMcw+iXBRZq03E039yN+47LUMHk=
 		</data>
 		<key>Headers/Minkasu2FA.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZvetkDD7BLGA4IQc61q8mGbzlUc=
+		7G4DKd+XRQ1ZnMrxyDY9q41yj7o=
 		</data>
 		<key>Minkasu2FAAlertController.nib</key>
 		<data>
@@ -134,19 +134,19 @@
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		diH8QP6zh3OFQZYFSDAEe7M1/pw=
+		xmS0uD89IzkSQ4JBs6EGe1TUOUo=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		6+iW7Q+MEvnzCVeb6jWQdqngBJM=
+		9douRNq9AszW7/wEa5meAbwA0Rw=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		diH8QP6zh3OFQZYFSDAEe7M1/pw=
+		xmS0uD89IzkSQ4JBs6EGe1TUOUo=
 		</data>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		sGSG2xMdqXBlCnnVpm1XtHuLONg=
+		jTP9p8ECvdNxJo7qUEBqyyug5gQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		XOn1BcQUr70EMntYZ/BiBQKXgvg=
+		2g9EgaVG/UZ4etEd3Y/8RS1pffQ=
 		</data>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>
 		<data>
@@ -271,7 +271,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7hTse+thr10Gq5VNxygnLRrshczbrqBncXxHMwTC7FA=
+			h6dVkE/cFrbreHyk5DS6WNDn8i16Zo1jZuzdA1byJc8=
 			</data>
 		</dict>
 		<key>Headers/Minkasu2FA.h</key>
@@ -432,28 +432,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gw2VhYfcvtTBfxStRpP6j2Fh0YxMOWxo5C4qIHZjVFY=
+			H7GR/8h0huIjSUbnClizyszYS8gbNB9vswjIph/0SYM=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yy6c1ZL/3DKV6wGnSdGIjL+VfZx4OVPpQr/y9e7WC9k=
+			wQ97XCD4Wbfi8IJfjxIzX7HOJEQmKU/RPeDEGt2vX/M=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gw2VhYfcvtTBfxStRpP6j2Fh0YxMOWxo5C4qIHZjVFY=
+			H7GR/8h0huIjSUbnClizyszYS8gbNB9vswjIph/0SYM=
 			</data>
 		</dict>
 		<key>Modules/Minkasu2FA.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r/pW3uZguNUPSJIpESgSprIJLEEH38U9WKm4I+V2qEM=
+			4C+1fxY33yZPbwtL2EBsLy+Kev+04wSJbp2HKpRoDDk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -467,7 +467,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kXFkXpz95gDvUw8ZOsvdEgvPhNvMI9LfBlogJmfLEvk=
+			3ZkGvD6183Bln3UZXUWCTx9KMnBPSqkRqpNMtRE6EWc=
 			</data>
 		</dict>
 		<key>minkasu2fa.storyboardc/2dn-3c-g01-view-ahH-lx-E4e.nib</key>
