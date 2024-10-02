@@ -54,6 +54,8 @@
 @property  MK2FACardType cardType;
 @property  MK2FABankType bankType;
 @property  PaymentType paymentType;
+@property  (nonatomic, strong) NSNumber *providerId;
+@property (nonatomic, strong) NSString *mkCustomData;
 @property  (nonatomic, assign) NSInteger totalAmountInLowestDenomination;
 @property  (nonatomic, assign) NSInteger currencyExponent;
 @property  MK2FACurrencyCode currencyCode;
@@ -84,5 +86,9 @@
 @property BankInfo *bankInfo;
 @property (nonatomic, weak) id <Minkasu2FACallbackDelegate> delegate;
 @property (nonatomic, strong) NSString *transactionPublicKey;
+@property BOOL isPayPinSetupForFTU;
+@property BOOL isPayPinSetupForRepeat;
+@property BOOL rotatePayPINKey;
+@property BOOL rotateBiometryKey;
 
 @end

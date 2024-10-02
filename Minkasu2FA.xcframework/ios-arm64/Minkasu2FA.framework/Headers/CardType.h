@@ -15,6 +15,7 @@ typedef NS_ENUM(NSUInteger, MK2FACardType){
     MASTERCARD = 2,
     AMERICANEXPRESS=3,
     RUPAY=4,
+    DINERSCLUB=5
    
 };
 

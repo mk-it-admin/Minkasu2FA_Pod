@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "Minkasu2FA",
+    "printedName": "Minkasu2FA",
     "children": [
       {
         "kind": "Import",
@@ -187,6 +187,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -267,5 +281,48 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/habibur.kgisl\/Library\/Developer\/Xcode\/DerivedData\/Minkasu2FA_iOS_SDK-bzwfpujlrwgbtgbrtofityjxmlos\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Minkasu2FA\/IntermediateBuildFilesPath\/Minkasu2FA.build\/Release-iphoneos\/Minkasu2FA.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 745,
+      "length": 19,
+      "value": "\"mk_checked_square\""
+    },
+    {
+      "filePath": "\/Users\/habibur.kgisl\/Library\/Developer\/Xcode\/DerivedData\/Minkasu2FA_iOS_SDK-bzwfpujlrwgbtgbrtofityjxmlos\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Minkasu2FA\/IntermediateBuildFilesPath\/Minkasu2FA.build\/Release-iphoneos\/Minkasu2FA.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 906,
+      "length": 19,
+      "value": "\"mk_radio_selected\""
+    },
+    {
+      "filePath": "\/Users\/habibur.kgisl\/Library\/Developer\/Xcode\/DerivedData\/Minkasu2FA_iOS_SDK-bzwfpujlrwgbtgbrtofityjxmlos\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Minkasu2FA\/IntermediateBuildFilesPath\/Minkasu2FA.build\/Release-iphoneos\/Minkasu2FA.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1076,
+      "length": 24,
+      "value": "\"mk_radio_selected_dark\""
+    },
+    {
+      "filePath": "\/Users\/habibur.kgisl\/Library\/Developer\/Xcode\/DerivedData\/Minkasu2FA_iOS_SDK-bzwfpujlrwgbtgbrtofityjxmlos\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Minkasu2FA\/IntermediateBuildFilesPath\/Minkasu2FA.build\/Release-iphoneos\/Minkasu2FA.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1246,
+      "length": 21,
+      "value": "\"mk_radio_unselected\""
+    },
+    {
+      "filePath": "\/Users\/habibur.kgisl\/Library\/Developer\/Xcode\/DerivedData\/Minkasu2FA_iOS_SDK-bzwfpujlrwgbtgbrtofityjxmlos\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Minkasu2FA\/IntermediateBuildFilesPath\/Minkasu2FA.build\/Release-iphoneos\/Minkasu2FA.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1422,
+      "length": 26,
+      "value": "\"mk_radio_unselected_dark\""
+    },
+    {
+      "filePath": "\/Users\/habibur.kgisl\/Library\/Developer\/Xcode\/DerivedData\/Minkasu2FA_iOS_SDK-bzwfpujlrwgbtgbrtofityjxmlos\/Build\/Intermediates.noindex\/ArchiveIntermediates\/Minkasu2FA\/IntermediateBuildFilesPath\/Minkasu2FA.build\/Release-iphoneos\/Minkasu2FA.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1575,
+      "length": 11,
+      "value": "\"mk_square\""
+    }
+  ]
 }

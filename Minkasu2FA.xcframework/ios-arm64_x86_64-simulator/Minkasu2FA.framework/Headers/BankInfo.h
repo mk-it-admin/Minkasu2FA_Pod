@@ -18,7 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign) int consentStringVersion;
 @property (nonatomic, assign) NSString *name;
 
-- (instancetype)initWithDictionary:(NSDictionary *)bankDict bankType:(MK2FABankType)bankType paymentType:(PaymentType)paymentType;
+- (instancetype)initWithDictionary:(NSDictionary *)bankInfoDict bankType:(MK2FABankType)bankType providerId:(NSNumber *)providerId paymentType:(PaymentType)paymentType;
 
 @end
 
