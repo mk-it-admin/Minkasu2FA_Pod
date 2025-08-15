@@ -16,6 +16,7 @@
 @property NSString *middleName;
 @property NSString *email;
 @property NSString *phone;
+//@property NSString *encryptedPhone;
 @property Minkasu2FAAddress *address;
 
 -(NSMutableDictionary *)dictionary;

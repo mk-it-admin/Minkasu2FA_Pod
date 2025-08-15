@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (BOOL) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config error:(NSError**)error;
 + (BOOL) initWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config inViewController:(nullable UIViewController *)viewController error:(NSError**)error;
-+ (BOOL) initReactSDKWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config reactSDKVersion:(NSString *)reactSDKVersion inViewController:(nullable UIViewController *)viewController error:(NSError**)error;
++ (BOOL) initHybridSDKWithWKWebView: (WKWebView *)webView andConfiguration:(Minkasu2FAConfig *) config hybridSDKDetails:(NSString *)hybridSDKDetails inViewController:(nullable UIViewController *)viewController error:(NSError**)error;
 
 + (NSString *) getMinkasu2FAUserAgent;
 + (NSMutableArray *)getAvailableMinkasu2FAOperations;

@@ -18,8 +18,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (NSArray *)listOfJSBridgeMethods;
 + (instancetype)sharedInstance;
-- (instancetype)initWithCongfiguration:(Minkasu2FAConfig *) config globalSessionId:(NSString *) globalSessionId reactNativeSDKVersion:(NSString *) reactNativeSDKVersion;
-- (void) setMinkasu2FAConfiguration:(Minkasu2FAConfig *) config globalSessionId:(NSString *) globalSessionId reactNativeSDKVersion:(NSString *) reactNativeSDKVersion;
+- (instancetype)initWithCongfiguration:(Minkasu2FAConfig *) config globalSessionId:(NSString *) globalSessionId hybridSDKDetails:(NSString *) hybridSDKDetails;
+- (void) setMinkasu2FAConfiguration:(Minkasu2FAConfig *) config globalSessionId:(NSString *) globalSessionId hybridSDKDetails:(NSString *) hybridSDKDetails;
 - (void) mk2faPerformPhoneNumCheckWithPhoneNum:(NSDictionary *) dict;
 - (void) mk2faPerformNetBankingLoginAuth:(NSDictionary *) bankData;
 - (void) mk2faPerformNetBankingAuth:(NSDictionary *) bankData;

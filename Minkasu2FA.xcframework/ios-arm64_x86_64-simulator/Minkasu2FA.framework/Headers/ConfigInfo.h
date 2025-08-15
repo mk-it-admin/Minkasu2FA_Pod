@@ -47,7 +47,7 @@
 @property PhoneHashAlg bankPhoneNumHashAlg;
 @property (nonatomic, strong) NSString *bankPhoneNumSalt;
 
-@property (nonatomic, strong) NSString *reactNativeSDKVersion;
+@property (nonatomic, strong) NSString *hybridSDKDetails;
 
 @property  Action action;
 @property  BOOL noAadhaar;

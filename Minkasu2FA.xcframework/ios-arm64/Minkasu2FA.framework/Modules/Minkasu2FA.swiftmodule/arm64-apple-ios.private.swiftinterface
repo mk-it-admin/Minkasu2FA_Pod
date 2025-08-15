@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-4.2 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name Minkasu2FA
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.1.2 effective-4.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name Minkasu2FA
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import CryptoKit
 import DeveloperToolsSupport
 import Foundation
@@ -13,8 +13,8 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_inheritsConvenienceInitializers @objc public class Crypto : ObjectiveC.NSObject {
-  @objc public static func AESGCMEncrypt(message: Foundation.Data, keyData: Foundation.Data, nonceData: Foundation.Data, authenticatedData: Foundation.Data) -> (Swift.Dictionary<Swift.String, Foundation.Data>)
-  @objc public static func AESGCMDecrypt(ciperText: Foundation.Data, keyData: Foundation.Data, nonceData: Foundation.Data, tag: Foundation.Data, authenticatedData: Foundation.Data) -> (Swift.String)
+  @objc public static func AESGCMEncrypt(message: Foundation.Data, keyData: Foundation.Data, nonceData: Foundation.Data, authenticatedData: Foundation.Data) -> Swift.Dictionary<Swift.String, Foundation.Data>
+  @objc public static func AESGCMDecrypt(ciperText: Foundation.Data, keyData: Foundation.Data, nonceData: Foundation.Data, tag: Foundation.Data, authenticatedData: Foundation.Data) -> Swift.String
   @objc override dynamic public init()
   @objc deinit
 }
